@@ -1,0 +1,51 @@
+{
+  "id": "2090391",
+  "name": "vant-shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "vant练习",
+  "glyphs": [
+    {
+      "icon_id": "16279603",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15886951",
+      "name": "默认头像",
+      "font_class": "touxiang-copy",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "665668",
+      "name": "购物车",
+      "font_class": "iconcart",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "2742586",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6841807",
+      "name": "精选",
+      "font_class": "jingxuan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "17366204",
+      "name": "分类",
+      "font_class": "category",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
